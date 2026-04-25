@@ -1,4 +1,4 @@
-cask "sentinel" do
+cask "sentinel-app" do
   version "4.0.0"
   sha256 "b784a225cbe27e202c76ac62308e8d9b101a679a3c1ccbd8c302a1dd464fadca"
 
