@@ -1,6 +1,6 @@
 # Homebrew Tap for Sentinel
 
-A [Homebrew](https://brew.sh) tap for installing [Sentinel](https://github.com/tychop/Sentinel) - a macOS app for monitoring GitHub repositories, workflow runs, and pull requests.
+A [Homebrew](https://brew.sh) tap for installing [Sentinel](https://github.com/tychop/sentinel-releases) - a macOS app for monitoring GitHub repositories, workflow runs, and pull requests.
 
 ## Installation
 
@@ -9,20 +9,20 @@ A [Homebrew](https://brew.sh) tap for installing [Sentinel](https://github.com/t
 brew tap tychop/sentinel
 
 # Install Sentinel
-brew install --cask sentinel
+brew install --cask sentinel-app
 ```
 
 ## Updating
 
 ```bash
 brew update
-brew upgrade --cask sentinel
+brew upgrade --cask sentinel-app
 ```
 
 ## Uninstallation
 
 ```bash
-brew uninstall --cask sentinel
+brew uninstall --cask sentinel-app
 brew untap tychop/sentinel
 ```
 
@@ -51,7 +51,8 @@ Sentinel is a macOS application for monitoring GitHub repositories, workflow run
 - Quick access to GitHub Actions and CI/CD status
 - Home screen widgets
 
-## Development
+## Releases
 
-To contribute to this tap or report issues, please visit:
-https://github.com/tychop/Sentinel
+Binaries are distributed from: https://github.com/tychop/sentinel-releases
+
+Source code is in a private repository.
