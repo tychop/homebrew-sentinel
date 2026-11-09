@@ -1,8 +1,8 @@
 cask "sentinel-app" do
-  version "4.2.2"
-  sha256 "ed60387fa228595b098de406e7db6d8a24c074a47af98a79188b416ff43d1a26"
+  version "4.2.3"
+  sha256 "435eb33cabac7951bece867402aefc1c3f039af5f551a7d5ccbaf702c0088c4c"
 
-  url "https://github.com/tychop/sentinel-releases/releases/download/v4.2.2/Sentinel-v4.2.2.dmg"
+  url "https://github.com/tychop/sentinel-releases/releases/download/v4.2.3/Sentinel-v4.2.3.dmg"
   name "Sentinel"
   desc "GitHub repository, workflow, and PR monitor for macOS"
   homepage "https://github.com/tychop/sentinel-releases"
